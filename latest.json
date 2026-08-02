@@ -1,11 +1,10 @@
 {
-	"version": "0.1.0",
-	"notes": "Initial beta release of The Vault with auto-updater enabled.",
-	"pub_date": "2026-08-02T00:00:00Z",
-	"platforms": {
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaThKdG1Pa2JTbGdtVXJwN1NYb2ljb1BHTkNXYW94ZFRqVHhQczYwaERHYWx0L3RhWm4yWlV4Y0tROFlIY1JBTHRleE4wdXdQQTdLUjlFMUxnY25hOExKNFpWaGFseHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjY5NzE4CWZpbGU6dGhlLXZhdWx0XzAuMS4wX3g2NC1zZXR1cC5leGUKSmJNUnBPWUFOSXlBYUlhWXlnYzZNcU84NWV0S2RZdVBMS3dZWlhWZWQvYjBUVllTREY1Z3QrdHVMWmtoVCtzQVhUWlp3UGhOY1Ixb2VSajRBQzhmQVE9PQo=",
-			"url": "https://github.com/TheVaulter/The-Valut/releases/download/v0.1.0/the-vault_0.1.0_x64-setup.exe"
-		}
-	}
+  "version": "0.1.1",
+  "notes": "One-click update test to v0.1.1",
+  "pub_date": "2026-08-02T06:41:16Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://raw.githubusercontent.com/TheValuter/The-Valut/main/the_vault_0.1.1_x64-setup.exe"
+    }
+  }
 }

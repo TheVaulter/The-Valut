@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaThKdG1Pa2JTbHFiM3dJNUZpUElFWlkrckszWUNQc0tpWmN3UWlsYS9kZnhnV2R1MHJrUjljM1o4bytrbmkzZVlrNzN3RVpkTWtzWUZCUnd6Rkg5T3drODhPbEViSFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjcyMTk4CWZpbGU6dGhlLXZhdWx0XzAuMS4wX3g2NC1zZXR1cC5leGUKWjE5Um10eHZRc21uQUpWRURMUERhaTJoZ2dXN2ZCQlpJcjB1YWE2Z1pMR0J5SnBiL2VBVWlTa1JRL1NuNWxHUVNLSGRQR2hkdzYvK3IvNlVkOC9oQXc9PQo=",
-      "https://raw.githubusercontent.com/TheVaulter/The-Valut/refs/heads/main/latest.json"
+      "url": "https://github.com/TheVaulter/The-Valut/releases/download/v0.1.1/the-vault_0.1.1_x64-setup.exe"
     }
   }
 }

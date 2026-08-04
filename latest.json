@@ -1,11 +1,11 @@
 {
   "version": "0.1.3",
-  "notes": "v0.1.3 update release",
-  "pub_date": "2026-08-02T20:37:00Z",
+  "notes": "Bug fixes and improvements",
+  "pub_date": "2026-08-04T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV21uSHNYa2lWQWpVc21xTFBFMWRtUXdiamNQZ0VKR1F6bmVmRm81NDN4dkwyampmTmNFVFNCbE90cDdqQkZwb1hNYVc3c1A2c0JHRUNNK2xsRlVSZG5EQ2VpVWFBaUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY5ODIzCWZpbGU6dGhlLXZhdWx0XzAuMS4zX3g2NC1zZXR1cC5leGUKd0NvK0xyQ0JMeU04cktxQWhyNE5SQnRuTExBcFMza1lielhOb3h2NzU4TWh0bzFQdVJ2NWo1b2ZlVVdUV3VQY1BNMkFVVW8zaU5WNktxNm40dXRnQ0E9PQo=",
-      "url": "https://raw.githubusercontent.com/TheVaulter/The-Valut/main/the-vault_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb2doMGtiYzNBaDY4TnJJTFBUUEljTUxSS0ltR0dEdEZjaUJDdThqeGMzRE9LR1NDNlNmNDNVS0NUemYxQWNhb1B2Z0Y2bk9zMzFiMkNrL0ZOUGNKQXlkbnZUTHJPYkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODcxNTQ3CWZpbGU6dGhlLXZhdWx0XzAuMS4zX3g2NC1zZXR1cC5leGUKNFkxenFzNE80M2V3bjkvbnFEWlkyVldPKzZJZGIzVi9GREVSeWF1RVRsS3Y0a2NZMHVoTDBlS2xQNXhwS2s2a0ljN08rcC9rUUFsek5BTXNkV0VIQ3c9PQo=",
+      "url": "https://github.com/TheVaulter/The-Valut/releases/download/v0.1.3/the-vault_0.1.3_x64-setup.exe"
     }
   }
 }

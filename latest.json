@@ -4,8 +4,8 @@
   "pub_date": "2026-08-04T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "8-ljTUxSS0ltR0dEdEZjaUJDdThqeGMzRE9LR1NDNlNmNDNVS0NUemYxQWNhb1B2Z0Y2bk9zMzFiMkNrL0ZOUGNKQXlkbnZUTHJPYkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODcxNTQ3CWZpbGU6dGhlLXZhdWx0XzAuMS4zX3g2NC1zZXR1cC5leGUKNFkxenFzNE80M2V3bjkvbnFEWlkyVldPKzZJZGIzVi9GREVSeWF1RVRsS3Y0a2NZMHVoTDBlS2xQNXhwS2s2a0ljN08rcC9rUUFsek5BTXNkV0VIQ3c9PQo=",
-     "url": "https://raw.githubusercontent.com/TheVaulter/The-Valut/main/the-vault_0.1.3_x64-setup.exe"
+      "signature": "untrusted comment: signature from tauri secret key\nRURRog0kbc3Ah68NrILPTPicMLRKImGGDtFciBCu8jxc3DOKGSC6Sf43UKCTzf1AcaoPvgF6nOs31b2Ck/FNPcJAndnvTLRoEbAI=\ntrusted comment: timestamp:1785871547\tfile:the-vault_0.1.3_x64-setup.exe\n4Y1zqs4O43ewn9/nqDZY2VWOK+6Idb3V/FDERyauETlKv4kcZ0uhL0ElKP5xpKk6lIc7O+p/kQAlzNAMsdWEHCw==",
+      "url": "https://raw.githubusercontent.com/TheVaulter/The-Valut/main/the-vault_0.1.3_x64-setup.exe"
     }
   }
 }
